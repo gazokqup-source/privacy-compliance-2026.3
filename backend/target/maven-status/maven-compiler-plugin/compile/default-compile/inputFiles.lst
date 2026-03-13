@@ -1,0 +1,14 @@
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\dto\LoginDTO.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\PrivacyComplianceApplication.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\dto\RegisterDTO.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\controller\AuthController.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\controller\DocumentController.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\controller\RuleController.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\controller\AnalyzeController.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\dto\AnalyzeRequestDTO.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\service\AnalyzeService.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\dto\DocumentUploadDTO.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\util\Result.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\service\DocumentService.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\service\AuthService.java
+C:\Users\Minyu\.openclaw\workspace-study\projects\privacy-compliance\backend\src\main\java\com\example\privacy\config\CorsConfig.java
